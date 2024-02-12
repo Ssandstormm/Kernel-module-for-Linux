@@ -1,1 +1,1 @@
-# Final-project-OSC-Akkumis-and-Aida
+# Kernel module for Linux
